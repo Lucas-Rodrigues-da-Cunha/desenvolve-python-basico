@@ -1,0 +1,7 @@
+1 - Início
+2 - Leia e armazene n; #Entrada
+3 - n - 1 = d1; #Processamento
+4 - 10 - n = d2; #Processamento
+5 - d1 * 10 + d2 = r; #Processamento
+6 - Imprima r. #Saída
+7 - Fim

@@ -1,0 +1,6 @@
+1 - Leia e armazene um número variável; #Entrada
+2 - Aplique a operação de subtração entre o número variável e 1, e armazene o resultado como "d1"; #Processamento
+3 - Aplique a operação de subtração entre 10 e o número variável, e armazene o resultado como "d2"; #Processamento
+4 - Aplique a operação de multiplicação entre "d1" e 10, e armazene resultado como "r1"; #Processamento
+5 - Aplique a operação de adição entre o "r1" e "d2", e armazene o resultado como "r"; #Processamento
+6 - Apresente o resultado "r" e finalize o programa. #Saída
